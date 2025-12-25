@@ -8,7 +8,7 @@ Smart Travel Companion is a Java-based desktop application designed to act as a 
 * Tourist attractions, hotels, restaurants, and shopping centers
 * Live news with category filtering
 * Tour planner with route and place suggestions
-* Trip management (My Trips) with itinerary creation
+* Trip management with itinerary creation and note taking
 
 ## Technologies Used
 
