@@ -12,7 +12,7 @@ Smart Travel Companion is a Java-based desktop application designed to act as a 
 
 ## Technologies Used
 
-* Java (Java 8+)
+* Java
 * External APIs (Weather, News, Routing)
 * org.json for JSON parsing
 
