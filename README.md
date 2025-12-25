@@ -27,6 +27,3 @@ Smart Travel Companion is a Java-based desktop application designed to act as a 
 ## Project Purpose
 
 This project was developed to solve the problem of fragmented travel information by providing a unified, user-friendly desktop application for travel planning and decision-making.
-
-* Make it **VTU / BNMIT style**
-* Write a **more technical README** with architecture details
